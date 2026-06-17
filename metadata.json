@@ -1,0 +1,6 @@
+{
+  "name": "Jersey Essence",
+  "description": "Premium retro-inspired jersey store with visual branding matching the brand's logo, cinematic animations, and robust order flow with secure bKash/Nagad verification and admin campaign management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
